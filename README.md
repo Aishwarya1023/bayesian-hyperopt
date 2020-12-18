@@ -8,7 +8,7 @@ The full implementation can be viewed at a glance in `example_implementation.htm
 ## Usage
 1. Set up PySpark on your machine
 2. Install dependencies `pip install -r requirements.txt` 
-3. Run test.py
+3. Run `test.py`
 
 ## Modifying Code for reuse
 
